@@ -1,0 +1,31 @@
+{
+  "name": "barkley",
+  "version": "0.1.0",
+  "description": "The Node butler",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MatteoGabriele/barkley"
+  },
+  "keywords": [
+    "barkley",
+    "node",
+    "butler",
+    "helper",
+    "installer",
+    "npm",
+    "yarn"
+  ],
+  "main": "index.js",
+  "author": {
+    "name": "Matteo Gabriele",
+    "email": "m.gabriele.dev@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatteoGabriele/barkley/issues"
+  },
+  "homepage": "https://github.com/MatteoGabriele/barkley#readme",
+  "dependencies": {
+    "execa": "^0.8.0"
+  }
+}
