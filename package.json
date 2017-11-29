@@ -25,6 +25,11 @@
   },
   "homepage": "https://github.com/MatteoGabriele/barkley#readme",
   "dependencies": {
-    "execa": "^0.8.0"
+    "del": "^3.0.0",
+    "execa": "^0.8.0",
+    "node-fetch": "^1.7.3",
+    "semver": "^5.4.1",
+    "tar": "^4.1.1",
+    "temp-dir": "^1.0.0"
   }
 }
