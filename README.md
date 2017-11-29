@@ -1,6 +1,7 @@
 # barkley
 
 The Node butler
+> A set of node utilities that will help you speed up your coding process
 
 ## Install
 
