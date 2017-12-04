@@ -14,7 +14,7 @@ The Node butler
 $ yarn add butler
 ```
 
-## User guide
+## Thing you can do
 
 * [Extract node packages](/docs/extract-packages.md)
 * [Manage dependencies](/docs/dependencies.md)
