@@ -1,3 +1,8 @@
+
+<a href="https://badge.fury.io/js/barkley">
+ <img src="https://badge.fury.io/js/barkley.svg" />
+<a/>
+
 # barkley
 
 The Node butler
