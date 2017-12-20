@@ -32,7 +32,7 @@ As `addPackages`, this method uses [exec]('/docs/exec.md').
 The mothod accepts an array of packages to uninstall, an option object and returns a Promise
 
 ```js
-const { addPackages } = require('barkley')
+const { removePackages } = require('barkley')
 
 removePackages(['lodash']).then(() => {
   // package uninstalled!
